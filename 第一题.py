@@ -48,3 +48,4 @@ class Solution:
             if map.__contains__(num2):
                 return [map[num2],index]
             map[num1] = index
+# 评分：36 ms  14.9 MB
